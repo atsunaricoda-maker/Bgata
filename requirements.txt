@@ -1,0 +1,18 @@
+# AI Drive FUSE Requirements
+
+# Core FUSE implementation
+fusepy>=3.0.1
+
+# System monitoring and utilities
+psutil>=5.8.0
+
+# AI Drive SDK (will be pre-installed in VM environment)
+# genspark-aidrive-sdk>=1.0.0
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# pytest-asyncio>=0.18.0
+# pytest-cov>=3.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950
